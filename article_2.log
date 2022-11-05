@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 22:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -633,12 +633,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
+
+(article_2.toc)
+\tf@toc=\write4
+\openout4 = `article_2.toc'.
+
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-Package lettrine.sty Info: Targeted height = 30.55516pt
+Package lettrine.sty Info: Targeted height = 31.27513pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 30.55528pt (T);
+(lettrine.sty)             Lettrine height = 31.27525pt (T);
 (lettrine.sty)             reported on input line 96.
 
 Underfull \hbox (badness 2809) in paragraph at lines 96--98
@@ -670,12 +675,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--98
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
 105.
-
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )
@@ -687,18 +688,13 @@ Underfull \hbox (badness 2126) in paragraph at lines 111--116
 
 
 ]
-Underfull \hbox (badness 1454) in paragraph at lines 121--123
-\T1/pplx/m/n/10 (+20) Machine Learn-ing je je-den z ty-pov anti-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 121--123
 \T1/pplx/m/n/10 (+20) Machine learn-ing fun-guje na pod-ne-
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 121--123
-\T1/pplx/m/n/10 (+20) po-mo-cou al-go-ritmu a po vy-hod-no-co-v-ani
+Underfull \hbox (badness 2205) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) po-mo-cou al-go-ritmu a po vy-hod-no-co-v-aní
  []
 
 
@@ -706,7 +702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
-<Machine learning proces diagram.jpg, id=61, 480.79625pt x 171.64125pt>
+<Machine learning proces diagram.jpg, id=69, 480.79625pt x 171.64125pt>
 File: Machine learning proces diagram.jpg Graphic file (type jpg)
 <use Machine learning proces diagram.jpg>
 Package pdftex.def Info: Machine learning proces diagram.jpg  used on input lin
@@ -717,43 +713,27 @@ Overfull \hbox (6.93076pt too wide) in paragraph at lines 124--126
 [][]
  []
 
-
-LaTeX Warning: Citation `Figueredo:2009dg' on page 2 undefined on input line 13
-8.
-
-
-Underfull \vbox (badness 2277) has occurred while \output is active []
-
-
-(article_2.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./Machine learning proces diagram.jpg>]) [3
-
-] (article_2.aux)
-
-LaTeX Warning: There were undefined references.
-
+(article_2.bbl) [2 <./Machine learning proces diagram.jpg>] (article_2.aux)
 Package rerunfilecheck Info: File `article_2.out' has not changed.
-(rerunfilecheck)             Checksum: DDE2DA632CF8CA5D289029256A147205;853.
+(rerunfilecheck)             Checksum: 461C262A4EBD5266A81AFBFCE15DE470;843.
  ) 
 Here is how much of TeX's memory you used:
- 16403 strings out of 475385
- 273509 string characters out of 2776907
- 668906 words of memory out of 3000000
- 37257 multiletter control sequences out of 15000+600000
- 529026 words of font info for 251 fonts, out of 8000000 for 9000
+ 16400 strings out of 475385
+ 273536 string characters out of 2776907
+ 670906 words of memory out of 3000000
+ 37260 multiletter control sequences out of 15000+600000
+ 528580 words of font info for 245 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,1008b,595s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplr
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 101128 bytes).
+Output written on article_2.pdf (2 pages, 103112 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
+ 103 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  86086 words of extra memory for PDF output out of 89155 (max. 10000000)
 
