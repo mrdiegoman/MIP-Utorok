@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 20:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -598,45 +598,34 @@ Underfull \hbox (badness 2126) in paragraph at lines 111--116
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
-\T1/pplx/m/n/10 (+20) A state-ment re-quir-ing ci-ta-tion
- []
 
+LaTeX Warning: Citation `Figueredo:2009dg' on page 2 undefined on input line 13
+1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
-\T1/pplx/m/n/10 (+20) [[]]. Lorem ip-
- []
+(article_2.bbl) [2] (article_2.aux)
 
-[2]
-Underfull \hbox (badness 1748) in paragraph at lines 150--154
-[]\T1/pplx/m/n/10 (+20) Figueredo, A. J.
- []
+LaTeX Warning: There were undefined references.
 
-[3
-
-] (article_2.aux)
 Package rerunfilecheck Info: File `article_2.out' has not changed.
-(rerunfilecheck)             Checksum: CF41A189649DC140EEE5A550C097FCCF;573.
+(rerunfilecheck)             Checksum: B6FFA831FA7B8BDFF7831880DB2A29C9;858.
  ) 
 Here is how much of TeX's memory you used:
- 14662 strings out of 475385
- 243040 string characters out of 2776907
- 647025 words of memory out of 3000000
- 35570 multiletter control sequences out of 15000+600000
- 529787 words of font info for 256 fonts, out of 8000000 for 9000
+ 14653 strings out of 475385
+ 243026 string characters out of 2776907
+ 646971 words of memory out of 3000000
+ 35573 multiletter control sequences out of 15000+600000
+ 528580 words of font info for 245 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,1008b,492s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
-/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-fpl/fplrc8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/p
-alatino/uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/palatino/uplr8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1
-/urw/palatino/uplri8a.pfb>
-Output written on article_2.pdf (3 pages, 100776 bytes).
+/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplr
+c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
+uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
+no/uplr8a.pfb>
+Output written on article_2.pdf (2 pages, 83753 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  20 named destinations out of 1000 (max. 500000)
- 86065 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 86081 words of extra memory for PDF output out of 89155 (max. 10000000)
 
