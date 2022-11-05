@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 19:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -625,7 +625,7 @@ Package rerunfilecheck Info: File `article_2.out' has not changed.
 Here is how much of TeX's memory you used:
  14662 strings out of 475385
  243040 string characters out of 2776907
- 648043 words of memory out of 3000000
+ 648025 words of memory out of 3000000
  35570 multiletter control sequences out of 15000+600000
  529787 words of font info for 256 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -638,7 +638,7 @@ fpl/fplrc8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/p
 alatino/uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/palatino/uplr8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on article_2.pdf (3 pages, 101893 bytes).
+Output written on article_2.pdf (3 pages, 100703 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  20 named destinations out of 1000 (max. 500000)
