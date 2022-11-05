@@ -6,45 +6,45 @@ The style file: elsarticle-num.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliography.bib
 Warning--I didn't find a database entry for "Figueredo:2009dg"
-You've used 1 entry,
+You've used 2 entries,
             2952 wiz_defined-function locations,
-            675 strings with 5209 characters,
-and the built_in function-call counts, 222 in all, are:
-= -- 15
-> -- 4
-< -- 0
-+ -- 2
-- -- 1
-* -- 5
-:= -- 48
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 1
+            682 strings with 5407 characters,
+and the built_in function-call counts, 639 in all, are:
+= -- 57
+> -- 8
+< -- 1
++ -- 4
+- -- 2
+* -- 25
+:= -- 92
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 6
-empty$ -- 27
-format.name$ -- 1
-if$ -- 52
+cite$ -- 2
+duplicate$ -- 25
+empty$ -- 82
+format.name$ -- 2
+if$ -- 170
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 11
-num.names$ -- 1
-pop$ -- 9
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 14
+num.names$ -- 2
+pop$ -- 19
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 16
+skip$ -- 50
 stack$ -- 0
-substring$ -- 0
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 32
+swap$ -- 10
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 1
-width$ -- 2
-write$ -- 14
+while$ -- 5
+width$ -- 3
+write$ -- 23
 (There was 1 warning)
