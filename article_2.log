@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,7 +552,7 @@ Package lettrine.sty Info: Targeted height = 30.07506pt
 (lettrine.sty)             Lettrine height = 30.07518pt (T);
 (lettrine.sty)             reported on input line 95.
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
-103.
+106.
 
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
@@ -561,38 +561,32 @@ File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 \T1/pplx/m/n/10 (+20) A state-ment re-quir-ing ci-ta-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 \T1/pplx/m/n/10 (+20) [[]]. Lorem ip-
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 163--167
+Underfull \hbox (badness 1748) in paragraph at lines 166--170
 []\T1/pplx/m/n/10 (+20) Figueredo, A. J.
  []
 
 [2] (article_2.aux)
-
-Package rerunfilecheck Warning: File `article_2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `article_2.out':
-(rerunfilecheck)             Before: F34AA34F12CB73510CB06753FBF1E7B9;612
-(rerunfilecheck)             After:  EA98032EF4EBA9DFDE9369D2BFE7FBC8;575.
+Package rerunfilecheck Info: File `article_2.out' has not changed.
+(rerunfilecheck)             Checksum: EA98032EF4EBA9DFDE9369D2BFE7FBC8;575.
  ) 
 Here is how much of TeX's memory you used:
- 14663 strings out of 475385
- 243176 string characters out of 2776907
- 645043 words of memory out of 3000000
+ 14671 strings out of 475385
+ 243242 string characters out of 2776907
+ 646043 words of memory out of 3000000
  35582 multiletter control sequences out of 15000+600000
- 534814 words of font info for 250 fonts, out of 8000000 for 9000
+ 535260 words of font info for 256 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,1008b,479s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,77p,1008b,471s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
 .pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
@@ -601,7 +595,7 @@ fpl/fplrc8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/p
 alatino/uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/palatino/uplr8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on article_2.pdf (2 pages, 98524 bytes).
+Output written on article_2.pdf (2 pages, 99808 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
