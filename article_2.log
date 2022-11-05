@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 17:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 18:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -551,40 +551,82 @@ Package lettrine.sty Info: Targeted height = 30.07506pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 30.07518pt (T);
 (lettrine.sty)             reported on input line 95.
+
+Underfull \hbox (badness 2809) in paragraph at lines 95--97
+\T1/pplx/m/n/10 (+20) ko-mu-nitách dne²nej doby. Ko-mu-nitách
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 95--97
+\T1/pplx/m/n/10 (+20) Taktieº nazrieme na metódy a spô-soby,
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 95--97
+\T1/pplx/m/n/10 (+20) poukáza´ na hrá£a, ktorý takto poru²uje
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 95--97
+\T1/pplx/m/n/10 (+20) zábavu a záºi-tok, takto znevýhod-nených
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 95--97
+\T1/pplx/m/n/10 (+20) a po£et vyhraných hier, ktorý sa po-tom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
-106.
+104.
 
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )
+Underfull \hbox (badness 1953) in paragraph at lines 108--111
+\T1/pplx/m/n/10 (+20) hrá£a, ktorý pouºíva nepo-v-olené ex-terne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
 [1{C:/Users/rafaj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 \T1/pplx/m/n/10 (+20) A state-ment re-quir-ing ci-ta-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 \T1/pplx/m/n/10 (+20) [[]]. Lorem ip-
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 166--170
+Underfull \hbox (badness 1748) in paragraph at lines 146--150
 []\T1/pplx/m/n/10 (+20) Figueredo, A. J.
  []
 
 [2] (article_2.aux)
 Package rerunfilecheck Info: File `article_2.out' has not changed.
-(rerunfilecheck)             Checksum: EA98032EF4EBA9DFDE9369D2BFE7FBC8;575.
+(rerunfilecheck)             Checksum: CF41A189649DC140EEE5A550C097FCCF;573.
  ) 
 Here is how much of TeX's memory you used:
- 14671 strings out of 475385
- 243242 string characters out of 2776907
+ 14647 strings out of 475385
+ 242915 string characters out of 2776907
  646043 words of memory out of 3000000
- 35582 multiletter control sequences out of 15000+600000
- 535260 words of font info for 256 fonts, out of 8000000 for 9000
+ 35570 multiletter control sequences out of 15000+600000
+ 529118 words of font info for 247 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,1008b,471s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -595,9 +637,9 @@ fpl/fplrc8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/p
 alatino/uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/palatino/uplr8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on article_2.pdf (2 pages, 99808 bytes).
+Output written on article_2.pdf (2 pages, 99328 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 100401 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 86065 words of extra memory for PDF output out of 89155 (max. 10000000)
 
