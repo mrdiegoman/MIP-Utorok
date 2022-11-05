@@ -37,7 +37,7 @@
 
 \usepackage{lettrine} % Prve velke pismeno na zaciatku textu 
 
-\usepackage{enumitem} % Upravitelne lisy
+\usepackage{enumitem} % Upravitelne listy
 \setlist[itemize]{noitemsep} % Make itemize lists more compact
 
 \usepackage{abstract} % Allows abstract customization
@@ -109,17 +109,17 @@ V tejto sekcii sú evedené metódy boja proti toxicite a cheatom\footnotemark[1
 \item Chat\footnote[8]{Prostredie na písanie pre hráčov} reštrikcia
 \end{itemize}
 	Po inštalácii hry, hráči musia potvrdiť terms of service\footnotemark[2]t.j. kliknutí na tlačítko "Accept",čo značí potvrdenie. Terms of service\footnotemark[2] majú informovať hráča o rôznych priestupkoch, ktorých sa hráči nesmú dopustiť, ak nechcú byť potrestaný. Ak sa hráč dopustil priestupku a je zaznamenaný systémom, najčastejšie prostredníctvom anti-cheatu\footnotemark[3], alebo nahlásením tohto hráča iným hráčom.\\
-	Report system\footnotemark[6] je jeden zo spôsobov, zachytávania priestupkov, ktorých sa hráči bežne dopúšťajú. Tieto priestupky sú nasledne ohlásené do systému hráčom, ktorý je vedomý priestupku, ktorého sa druhý hráč dopustil, alebo práve dopúšťa. Následne sú tieto sťažnosti od hráčov preverené ľuďmi na to určenými. Títo ľudia overia pravdivosť sťažností a korektne potrestajú daného hráča, ktorý sa dopustil priestupku.\\
-	Anti cheat\footnotemark[3] je program, ktorý je naprogramovaný na to, aby kontroloval hráčov a následne zistil výskyt third party programu\footnotemark[4], ktorý hráč používa, ako kompetetívnu výhodu a následne je korektne potrestaný.\\
-	Banovanie\footnotemark[7] je spôsob trestania hráčov, ktorí sa dopustili priestupku, ktorý je v rozpore s terms of service\footnotemark[2]. Ak je hráč zabanovaný\footnotemark[7], tak je mu na určitý čas odoprená možnosť pripojiť sa do kompetetívnej hry.\\
-	Chat\footnotemark[8] restrikcia je spôsob, akým hry zakazujú hráčom, ktorí porušili terms of service\footnotemark[2],na určitý čas písanie do chatu.
+	Report system\footnote[1]{Nahlásovanie hráčov hráčmi.} je jeden zo spôsobov, zachytávania priestupkov, ktorých sa hráči bežne dopúšťajú. Tieto priestupky sú nasledne ohlásené do systému hráčom, ktorý je vedomý priestupku, ktorého sa druhý hráč dopustil, alebo práve dopúšťa. Následne sú tieto sťažnosti od hráčov preverené ľuďmi na to určenými. Títo ľudia overia pravdivosť sťažností a korektne potrestajú daného hráča, ktorý sa dopustil priestupku.\\
+	Anti cheat\footnote[2]{Program, ktorý zisťuje výskyt cheatov.} je program, ktorý je naprogramovaný na to, aby kontroloval hráčov a následne zistil výskyt third party programu\footnote[3]{Program, ktorý pracuje mimo danej hry.}, ktorý hráč používa, ako kompetetívnu výhodu a následne je korektne potrestaný.\\
+	Banovanie\footnote[4]{Zakaz spustenia kompetetívnej hry na určitú dobu.} je spôsob trestania hráčov, ktorí sa dopustili priestupku, ktorý je v rozpore s terms of service\footnote[5]{Pravidlá pri prevádzkovaní danej hry.}. Ak je hráč zabanovaný\footnotemark[4], tak je mu na určitý čas odoprená možnosť pripojiť sa do kompetetívnej hry.\\
+	Chat\footnote[6]{Prostredie na písanie pre hráčov} restrikcia je spôsob, akým hry zakazujú hráčom, ktorí porušili terms of service\footnotemark[5],na určitý čas písanie do chatu.
 
 %------------------------------------------------
 
 \section{Anti-cheat}
 \subsection{Machine learning}
-Machine Learning je jeden z typov anti-cheatov, ako je písané v \cite{willman2020machine}. Tento anti-cheat pracuje a vyhodnocuje svoje rozhodnutia na základe algoritmu, ktorý bol naprogramovaný človekom a na základe toho, či bolo to rozhodnutie správne , alebo chybné je algoritmus zmenený a vylepšený človekom. Čím viacej informácii program dostáva v algoritme, tým je výsledok presnejší. Tento proces učenia je klasifikovaný ako rýchly. \\
-Machine learning funguje na podnetoch/vstupoch, ktoré získava z danej hry, následne tieto podnety/vstupy vyhodnocuje pomocou algoritmu a po vyhodnocovaní vykoná akciu/výstup, ktorý je buď správny, alebo nesprávny.\\
+Machine Learning je jeden z typov anti-cheatov\footnotemark[2], ako je písané v \cite{willman2020machine}. Tento anti-cheat\footnotemark[2] pracuje a vyhodnocuje svoje rozhodnutia na základe algoritmu\footnote[7]{Spôsob, podľa ktrého program vyhodnocuje svoje rozhodnutia}, ktorý bol naprogramovaný človekom a na základe toho, či bolo to rozhodnutie správne , alebo chybné je algoritmus\footnotemark[7] zmenený a vylepšený človekom. Čím viacej informácii program dostáva v algoritme\footnotemark[7], tým je výsledok presnejší. Tento proces učenia je klasifikovaný ako rýchly. \\
+Machine learning funguje na podnetoch/vstupoch, ktoré získava z danej hry, následne tieto podnety/vstupy vyhodnocuje pomocou algoritmu\footnotemark[7] a po vyhodnocovaní vykoná akciu/výstup, ktorý je buď správny, alebo nesprávny.\\
 
 \textnormal{\includegraphics[scale=0.42]{Machine learning proces diagram.jpg}}
 \label{machine learning proces}
@@ -127,19 +127,19 @@ Machine learning funguje na podnetoch/vstupoch, ktoré získava z danej hry, ná
 
 \subsection{Deep Learning}
 Deep Learning je funguje na rovnaký systém, ako Machine learning, lenže tento systém na rozdiel od machine learningu nepotrebuje človeka na vylepšovanie, ale vylepšuje sám a to pomocou svojich skúseností a rozhodnutí, ako je aj písané v \cite{zhang2021improvement}. Nevýhodou systému na základe deep learningu je, že proces učenia trvá značne dlhšie, ako pri machine learningu, ktorý je programovaný človekom, ale ak uplynie dostatok času rozhodnutia tohto systému sú priemerom presnejšie ako pri machine learningu.
-Deep learning je vylepšenie machine learningu, pričom deep learning pracuje pomocou techniky machine learningu, ktorá rozdeľuje algoritmy a neurony do takzvanej umelej neurónovej site. Neurónová sieť si dáva za príklad ľudský mozog v tom, ako funguje a operuje.  
+Deep learning je vylepšenie machine learningu, pričom deep learning pracuje pomocou techniky machine learningu, ktorá rozdeľuje algoritmy\footnotemark[7] a neuróny do takzvanej umelej neurónovej site. Neurónová sieť je vytvorená, tak aby pracovala a operovala na rovnaký spôsob ako náš ľudský mozog.
 
 
 %------------------------------------------------
 
 \section{Toxicita}
 
-\subsection{Subsection One}
+\subsection{}
 
 
 
 \subsection{Subsection Two}
-
+test\\
 
 %----------------------------------------------------------------------------------------
 %	REFERENCE LIST
