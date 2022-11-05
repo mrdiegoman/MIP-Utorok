@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 20:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 22:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -275,6 +275,29 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmargin=\skip68
 \droptitle=\skip69
 )
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen195
+\stockheight=\dimen196
+))
+\Gin@req@height=\dimen197
+\Gin@req@width=\dimen198
+)
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
@@ -329,7 +352,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count299
 )
-\@linkdim=\dimen195
+\@linkdim=\dimen199
 \Hy@linkcounter=\count300
 \Hy@pagecounter=\count301
  (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -354,8 +377,6 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-\stockwidth=\dimen196
-\stockheight=\dimen197
 Package hyperref Info: Bookmarks ON on input line 4410.
 \c@Hy@tempcnt=\count303
 
@@ -364,7 +385,7 @@ Package hyperref Info: Bookmarks ON on input line 4410.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen198
+\XeTeXLinkMargin=\dimen256
 
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -375,8 +396,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count304
-\Field@Width=\dimen199
-\Fld@charsize=\dimen256
+\Field@Width=\dimen257
+\Fld@charsize=\dimen258
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -418,11 +439,53 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box56
+)
+\tc@llx=\dimen259
+\tc@lly=\dimen260
+\tc@urx=\dimen261
+\tc@ury=\dimen262
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen263
+\adjbox@Height=\dimen264
+\adjbox@Depth=\dimen265
+\adjbox@Totalheight=\dimen266
+\adjbox@pwidth=\dimen267
+\adjbox@pheight=\dimen268
+\adjbox@pdepth=\dimen269
+\adjbox@ptotalheight=\dimen270
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count310
+) (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box57
+\sift@deathcycles=\count311
+\@vwid@loff=\dimen271
+\@vwid@roff=\dimen272
+))
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count310
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count312
+\l__pdf_internal_box=\box58
 ) (article_2.aux)
 \openout1 = `article_2.aux'.
 
@@ -444,7 +507,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
 LaTeX Font Info:    ... okay on input line 85.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
 LaTeX Font Info:    ... okay on input line 85.
-\big@size=\dimen257
+\big@size=\dimen273
 LaTeX Info: Redefining \microtypecontext on input line 85.
 Package microtype Info: Applying patch `item' on input line 85.
 Package microtype Info: Applying patch `toc' on input line 85.
@@ -502,8 +565,34 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count313
+\scratchdimen=\dimen274
+\scratchbox=\box59
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen275
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package hyperref Info: Link coloring OFF on input line 85.
-(article_2.out) (article_2.out)
+ (article_2.out) (article_2.out)
 \@outlinefile=\write3
 \openout3 = `article_2.out'.
 
@@ -598,11 +687,41 @@ Underfull \hbox (badness 2126) in paragraph at lines 111--116
 
 
 ]
+Underfull \hbox (badness 1454) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) Machine Learn-ing je je-den z ty-pov anti-
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) pracuje a vy-hod-nocuje svoje rozhod-nu-tia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) Machine learn-ing fun-guje na pod-ne-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+<Machine learning proces diagram.jpg, id=61, 480.79625pt x 171.64125pt>
+File: Machine learning proces diagram.jpg Graphic file (type jpg)
+<use Machine learning proces diagram.jpg>
+Package pdftex.def Info: Machine learning proces diagram.jpg  used on input lin
+e 124.
+(pdftex.def)             Requested size: 201.93304pt x 72.08882pt.
+
+Overfull \hbox (6.93076pt too wide) in paragraph at lines 124--126
+[][]
+ []
+
 
 LaTeX Warning: Citation `Figueredo:2009dg' on page 2 undefined on input line 13
-1.
+6.
 
-(article_2.bbl) [2] (article_2.aux)
+(article_2.bbl) [2 <./Machine learning proces diagram.jpg>] (article_2.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -610,11 +729,11 @@ Package rerunfilecheck Info: File `article_2.out' has not changed.
 (rerunfilecheck)             Checksum: B6FFA831FA7B8BDFF7831880DB2A29C9;858.
  ) 
 Here is how much of TeX's memory you used:
- 14653 strings out of 475385
- 243026 string characters out of 2776907
- 646971 words of memory out of 3000000
- 35573 multiletter control sequences out of 15000+600000
- 528580 words of font info for 245 fonts, out of 8000000 for 9000
+ 16400 strings out of 475385
+ 273460 string characters out of 2776907
+ 668906 words of memory out of 3000000
+ 37256 multiletter control sequences out of 15000+600000
+ 529026 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -623,9 +742,9 @@ Here is how much of TeX's memory you used:
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (2 pages, 83753 bytes).
+Output written on article_2.pdf (2 pages, 98899 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  20 named destinations out of 1000 (max. 500000)
- 86081 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 86086 words of extra memory for PDF output out of 89155 (max. 10000000)
 
