@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  5 NOV 2022 23:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -688,13 +688,18 @@ Underfull \hbox (badness 2126) in paragraph at lines 111--116
 
 
 ]
+Underfull \hbox (badness 1454) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) Machine Learn-ing je je-den z ty-pov anti-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 121--123
 \T1/pplx/m/n/10 (+20) Machine learn-ing fun-guje na pod-ne-
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 121--123
-\T1/pplx/m/n/10 (+20) po-mo-cou al-go-ritmu a po vy-hod-no-co-v-aní
+Underfull \hbox (badness 1048) in paragraph at lines 121--123
+\T1/pplx/m/n/10 (+20) po-mo-cou al-go-ritmu[] a po vy-hod-no-co-v-aní
  []
 
 
@@ -702,7 +707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
-<Machine learning proces diagram.jpg, id=75, 480.79625pt x 171.64125pt>
+<Machine learning proces diagram.jpg, id=76, 480.79625pt x 171.64125pt>
 File: Machine learning proces diagram.jpg Graphic file (type jpg)
 <use Machine learning proces diagram.jpg>
 Package pdftex.def Info: Machine learning proces diagram.jpg  used on input lin
@@ -718,29 +723,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-(article_2.bbl [2 <./Machine learning proces diagram.jpg>]) [3
+(article_2.bbl
+Underfull \vbox (badness 2277) has occurred while \output is active []
+
+ [2 <./Machine learning proces diagram.jpg>]) [3
 
 ] (article_2.aux)
 Package rerunfilecheck Info: File `article_2.out' has not changed.
 (rerunfilecheck)             Checksum: 9AE79C22E90270F944B5A215CF88AA54;762.
  ) 
 Here is how much of TeX's memory you used:
- 16407 strings out of 475385
- 273613 string characters out of 2776907
+ 16400 strings out of 475385
+ 273559 string characters out of 2776907
  671906 words of memory out of 3000000
  37260 multiletter control sequences out of 15000+600000
- 528580 words of font info for 245 fonts, out of 8000000 for 9000
+ 528134 words of font info for 239 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,1008b,597s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,77p,1008b,595s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplr
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 105779 bytes).
+Output written on article_2.pdf (3 pages, 106305 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
  86086 words of extra memory for PDF output out of 89155 (max. 10000000)
 
