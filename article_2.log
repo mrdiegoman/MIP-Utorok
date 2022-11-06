@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,9 +728,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 17--19
 \T1/pplx/m/n/10 (+20) Com-puter and Math-e-mat-ics Ed-u-ca-tion
  []
 
-) [3
-
-] (article_2.aux)
+) [3] (article_2.aux)
 Package rerunfilecheck Info: File `article_2.out' has not changed.
 (rerunfilecheck)             Checksum: 788968FC50D52BB17B2424A55D6EAEE0;583.
  ) 
@@ -748,7 +746,7 @@ Here is how much of TeX's memory you used:
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 108038 bytes).
+Output written on article_2.pdf (3 pages, 108041 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
