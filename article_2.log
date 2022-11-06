@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,38 +645,9 @@ Package lettrine.sty Info: Targeted height = 31.27513pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.27525pt (T);
 (lettrine.sty)             reported on input line 96.
-
-Underfull \hbox (badness 2809) in paragraph at lines 96--98
-\T1/pplx/m/n/10 (+20) ko-mu-nitách dne²nej doby. Ko-mu-nitách
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 96--98
-\T1/pplx/m/n/10 (+20) Taktieº nazrieme na metódy a spô-soby,
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 96--98
-\T1/pplx/m/n/10 (+20) poukáza´ na hrá£a, ktorý takto poru²uje
- []
-
-
-Underfull \hbox (badness 1881) in paragraph at lines 96--98
-\T1/pplx/m/n/10 (+20) zábavu a záºi-tok, takto znevýhod-nených
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 96--98
-\T1/pplx/m/n/10 (+20) a po£et vyhraných hier, ktorý sa po-tom
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-
- []
-
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
 105.
+
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )
@@ -707,7 +678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
-<Machine learning proces diagram.jpg, id=67, 480.79625pt x 171.64125pt>
+<Machine learning proces diagram.jpg, id=68, 480.79625pt x 171.64125pt>
 File: Machine learning proces diagram.jpg Graphic file (type jpg)
 <use Machine learning proces diagram.jpg>
 Package pdftex.def Info: Machine learning proces diagram.jpg  used on input lin
@@ -733,11 +704,11 @@ Package rerunfilecheck Info: File `article_2.out' has not changed.
 (rerunfilecheck)             Checksum: 788968FC50D52BB17B2424A55D6EAEE0;583.
  ) 
 Here is how much of TeX's memory you used:
- 16416 strings out of 475385
- 273702 string characters out of 2776907
+ 16419 strings out of 475385
+ 273731 string characters out of 2776907
  671918 words of memory out of 3000000
  37259 multiletter control sequences out of 15000+600000
- 529026 words of font info for 251 fonts, out of 8000000 for 9000
+ 529124 words of font info for 253 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,14n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -746,9 +717,9 @@ Here is how much of TeX's memory you used:
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 108041 bytes).
+Output written on article_2.pdf (3 pages, 108603 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  86070 words of extra memory for PDF output out of 89155 (max. 10000000)
 
