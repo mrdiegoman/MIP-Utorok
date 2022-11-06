@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,11 +704,11 @@ Package rerunfilecheck Info: File `article_2.out' has not changed.
 (rerunfilecheck)             Checksum: 788968FC50D52BB17B2424A55D6EAEE0;583.
  ) 
 Here is how much of TeX's memory you used:
- 16419 strings out of 475385
- 273731 string characters out of 2776907
+ 16429 strings out of 475385
+ 273821 string characters out of 2776907
  671918 words of memory out of 3000000
  37259 multiletter control sequences out of 15000+600000
- 529124 words of font info for 253 fonts, out of 8000000 for 9000
+ 529570 words of font info for 259 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,14n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -717,9 +717,9 @@ Here is how much of TeX's memory you used:
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 108603 bytes).
+Output written on article_2.pdf (3 pages, 109322 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
  86070 words of extra memory for PDF output out of 89155 (max. 10000000)
 
