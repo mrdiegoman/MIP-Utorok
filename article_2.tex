@@ -42,8 +42,9 @@
 
 \usepackage{abstract} % Allows abstract customization
 \renewcommand{\abstracttextfont}{\normalfont\small\itshape} % Set the abstract itself to small italic text
-
+\renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
 \usepackage{titlesec} % Allows customization of titles
+
 \renewcommand\thesection{\Roman{section}} % Roman numerals for the sections
 \renewcommand\thesubsection{\roman{subsection}} % roman numerals for subsections
 \titleformat{\section}[block]{\large\scshape\centering}{\thesection.}{1em}{} % Change the look of the section titles
@@ -78,8 +79,11 @@
 }
 \date{November 6, 2022} % datum
 \renewcommand{\maketitlehookd}{%
-}
 
+\begin{abstract}
+\normalsize Cielom tohto artiklu je.. 
+\end{abstract}
+}
 %----------------------------------------------------------------------------------------
 
 \begin{document}
