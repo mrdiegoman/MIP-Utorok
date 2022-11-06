@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 18:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 18:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -651,8 +651,8 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line
 (C:\Users\rafaj\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )
-Underfull \hbox (badness 2126) in paragraph at lines 111--116
-\T1/pplx/m/n/10 (+20) Anti cheat[][][] je pro-gram, ktorý je napro-
+Underfull \hbox (badness 3417) in paragraph at lines 111--116
+\T1/pplx/m/n/10 (+20) Anti-cheat[][][] je pro-gram, ktorý je napro-
  []
 
 [1{C:/Users/rafaj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
@@ -704,11 +704,11 @@ Package rerunfilecheck Info: File `article_2.out' has not changed.
 (rerunfilecheck)             Checksum: 788968FC50D52BB17B2424A55D6EAEE0;583.
  ) 
 Here is how much of TeX's memory you used:
- 16427 strings out of 475385
- 273810 string characters out of 2776907
- 670966 words of memory out of 3000000
+ 16435 strings out of 475385
+ 273876 string characters out of 2776907
+ 670981 words of memory out of 3000000
  37259 multiletter control sequences out of 15000+600000
- 529347 words of font info for 256 fonts, out of 8000000 for 9000
+ 529793 words of font info for 262 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,14n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -717,7 +717,7 @@ Here is how much of TeX's memory you used:
 c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
 uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
 no/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 110847 bytes).
+Output written on article_2.pdf (3 pages, 110835 bytes).
 PDF statistics:
  129 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)
