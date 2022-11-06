@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  6 NOV 2022 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,7 +707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
-<Machine learning proces diagram.jpg, id=76, 480.79625pt x 171.64125pt>
+<Machine learning proces diagram.jpg, id=67, 480.79625pt x 171.64125pt>
 File: Machine learning proces diagram.jpg Graphic file (type jpg)
 <use Machine learning proces diagram.jpg>
 Package pdftex.def Info: Machine learning proces diagram.jpg  used on input lin
@@ -719,50 +719,48 @@ Overfull \hbox (6.93076pt too wide) in paragraph at lines 124--126
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 1406) in paragraph at lines 137--141
+\T1/pplx/m/n/10 (+20) a ak tá tox-i-cita pre-sahuje v²etky medze,
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 137--141
+\T1/pplx/m/n/10 (+20) tak nahla-su-jem po-mo-cou re-port sys-tému[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--141
 
  []
 
-(article_2.bbl
-Underfull \vbox (badness 5637) has occurred while \output is active []
+[2 <./Machine learning proces diagram.jpg>] (article_2.bbl
+Underfull \hbox (badness 1137) in paragraph at lines 17--19
+\T1/pplx/m/n/10 (+20) Com-puter and Math-e-mat-ics Ed-u-ca-tion
+ []
 
- [2 <./Machine learning proces diagram.jpg>]) [3
+) [3
 
 ] (article_2.aux)
-
-Package rerunfilecheck Warning: File `article_2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `article_2.out':
-(rerunfilecheck)             Before: 9AE79C22E90270F944B5A215CF88AA54;762
-(rerunfilecheck)             After:  788968FC50D52BB17B2424A55D6EAEE0;583.
+Package rerunfilecheck Info: File `article_2.out' has not changed.
+(rerunfilecheck)             Checksum: 788968FC50D52BB17B2424A55D6EAEE0;583.
  ) 
 Here is how much of TeX's memory you used:
- 16400 strings out of 475385
- 273559 string characters out of 2776907
+ 16414 strings out of 475385
+ 273678 string characters out of 2776907
  671918 words of memory out of 3000000
- 37260 multiletter control sequences out of 15000+600000
- 528134 words of font info for 239 fonts, out of 8000000 for 9000
+ 37259 multiletter control sequences out of 15000+600000
+ 529026 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,1008b,595s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{subsection.4.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.4.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
-sers/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8
-a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/up
-lb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino
-/uplr8a.pfb>
-Output written on article_2.pdf (3 pages, 105802 bytes).
+ 72i,11n,77p,1008b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
+/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplr
+c8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
+uplb8a.pfb><C:/Users/rafaj/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palati
+no/uplr8a.pfb>
+Output written on article_2.pdf (3 pages, 107241 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 86086 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 86070 words of extra memory for PDF output out of 89155 (max. 10000000)
 
